@@ -1,0 +1,10 @@
+.drone.yml
+.dependabot/config.yml
+/coverage/
+/.nyc_output/
+www
+*.d.ts
+dist
+loader
+readme.md
+CONTRIBUTING.md
